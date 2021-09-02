@@ -38,10 +38,6 @@ https://templatemo.com/tm-521-get-ready
     /* font-weight: bold; */
   }
 
-  .title {
-    margin-top: 150px
-  }
-
   h2 {
     color: #353535;
     font-size: 2em;
@@ -68,6 +64,27 @@ https://templatemo.com/tm-521-get-ready
     color: #202020;
     text-decoration: none !important;
   }
+
+  .button {
+    background:url('../images/opensea-white-logo.png') no-repeat;
+    background-size: 35px auto; /* to specify dimensions explicitly */
+    background-position-x: 19px;
+    background-position-y: 8px;
+    background-color: #2081E2;
+    border: none;
+    color: white;
+    padding: 15px 75px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    z-index: 1;
+  }
+  .button:hover { background-color: #1868B7; }
 
   a,
   input, button,
@@ -138,6 +155,10 @@ https://templatemo.com/tm-521-get-ready
   /*---------------------------------------
      Ducks
   -----------------------------------------*/
+
+  .title {
+    margin-top: 150px
+  }
 
   .ducks {
     width: 250px;
