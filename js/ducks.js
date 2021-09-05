@@ -21,4 +21,4 @@ images[9] = "images/Artboard10@3x.png";
 images[10] = "images/Artboard11@3x.png";
 images[11] = "images/Artboard12@3x.png";
 images[12] = "images/Artboard13@3x.png";
-images[13] = "images/Artboard14@3x.png";
+// images[13] = "images/Artboard14@3x.png";
